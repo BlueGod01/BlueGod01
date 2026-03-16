@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Nilesh Ganguly
+# 👋 Hi, I'm Nilesh Ganguly(a.k.a BlueGod)
 
-🚀 AI Engineer focused on **Agentic AI Systems, LLM Engineering, and Production AI Infrastructure**.
+ AI Engineer focused on **Agentic AI Systems, LLM Engineering, and Production AI Infrastructure**.
 
 I design and build **intelligent AI systems that combine large language models, autonomous agents, and scalable backend architectures**. My work focuses on transforming **advanced AI capabilities into reliable real-world systems**.
 
