@@ -160,7 +160,7 @@ This project demonstrates that a well-trained small model — cheaper to run, fa
 
 ---
 
-## Currenctly I am learning and working with Small Language Models and Recursive Language Models. The research paper "Small Language Models are the Future of Agentic AI" has inspired me to work with them and understand there potential in real-world Agentic System. This can reduce a massive amount of computational cost and API call cost as Small Language Models are very easy to deploy when compared to LLMs.
+**Currenctly I am learning and working with:** Small Language Models and Recursive Language Models. The research paper **"Small Language Models are the Future of Agentic AI"** has inspired me to work with them and understand there potential in real-world Agentic System. This can reduce a massive amount of computational cost and API call cost as Small Language Models are very easy to deploy when compared to LLMs.
 
 ## 🎯 What I'm Looking For
 
